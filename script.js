@@ -21,11 +21,13 @@ const lyricsData = [
   { time: 37, text: "As long as you're next to me just the two of us", duration: 7 },
 
   // Coro 1 - CORREGIDO Y ORDENADO
-  { time: 47, text: "You're my, my, my, my kind of woman", duration: 5 },
-  { time: 52, text: "And I'm down on my hands and knees", duration: 4 },
-  { time: 56, text: "Begging you please, baby, show me your world", duration: 5 },
+  { time: 49, text: "You're my, my, my, my kind of woman", duration: 9 },
+  { time: 59, text: "My, oh my, what a girl", duration: 9 },
+  { time: 69, text: "You're my, my, my, my kind of woman", duration: 9 },
+  { time: 80, text: "And I'm down on my hands and knees", duration: 3 },
+  { time: 83, text: "Begging you please, baby, show me your world", duration: 5 },
   { time: 53, text: "You're my, my, my, my kind of woman", duration: 7 },
-  { time: 59, text: "My, oh my, what a girl", duration: 5 },
+  { time: 70, text: "My, oh my, what a girl", duration: 5 },
 
   // Segunda parte vocal
   { time: 71, text: "Oh brother, sweetheart", duration: 5 },
